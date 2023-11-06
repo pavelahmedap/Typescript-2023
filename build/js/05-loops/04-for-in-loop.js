@@ -8,7 +8,9 @@ const programmingLanguages = {
 for (const programmingLanguage in programmingLanguages) {
     //   console.log(programmingLanguage);
     //   console.log(programmingLanguages[programmingLanguage]);
-    console.log(`Key ${programmingLanguage}, value ${programmingLanguages[programmingLanguage]}`);
+    // console.log(
+    //   `Key ${programmingLanguage}, value ${programmingLanguages[programmingLanguage]}`
+    // );
 }
 // const car: { type: string; model: string; year: number } = {
 //   type: "Toyota",

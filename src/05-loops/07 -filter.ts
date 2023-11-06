@@ -15,7 +15,7 @@ console.log(values);
 
 console.log(`============Using for each=========`);
 
-let newNumber: [] = [];
+let newNumber: number[] = [];
 myNumber.forEach((number) => {
   if (number > 4) {
     newNumber.push(number);
